@@ -1,0 +1,88 @@
+.div{
+    height:500px;
+    width:700px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:black;
+    box-shadow: 10px 10px  10px red ;
+}
+
+ul{
+    transition:all 2s ease-in  ;
+    list-style-type:none;
+    display:flex;
+    font-size:5rem;
+    color:white;
+}
+
+/**hover**/
+
+#a:hover{
+    color:gold;
+    text-shadow:5px 5px 20px rgb(242,157,10),
+    5px 5px 20px rgb(242,157,10),
+    5px 5px 20px rgb(242,157,10),
+    5px 5px 20px rgb(242,157,10); 
+}
+
+ #a1:hover{
+    color:blue;
+    text-shadow:5px 5px 20px #ff00b7,
+                5px 5px 20px #ff00b7,
+                5px 5px 20px #ff00b7,
+                5px 5px 20px #ff00b7;           
+}
+
+#a2:hover{
+   color:#005B41;
+    text-shadow:5px 5px 20px red,
+                5px 5px 20px red,
+                5px 5px 20px red,
+                5px 5px 20px red;
+}
+
+#a3:hover{
+   color:orangered;
+    text-shadow:5px 5px 20px blue,
+                5px 5px 20px blue,
+                5px 5px 20px blue,
+                5px 5px 20px blue;
+}
+
+#a4:hover{
+   color:rgb(9, 182, 251);
+    text-shadow:5px 5px 20px  #5E1675,
+                5px 5px 20px  #5E1675,
+                5px 5px 20px  #5E1675,
+                5px 5px 20px  #5E1675,
+                5px 5px 20px  #5E1675;
+}
+
+#a5:hover{
+   color:red;
+    text-shadow:5px 5px 20px #fa7000,
+                5px 5px 20px #fa7000,
+                5px 5px 20px #fa7000,
+                5px 5px 20px #fa7000;
+}
+#a6:hover{
+  color:rgb(225, 255, 0);
+  text-shadow:5px 5px 20px #0D9276,
+              5px 5px 20px #0D9276,
+              5px 5px 20px #0D9276,
+              5px 5px 20px #0D9276;
+}
+#a7:hover{
+    color:purple;
+    text-shadow:5px 5px 20px #920d28,
+                5px 5px 20px #920d28,
+                5px 5px 20px #920d28,
+                5px 5px 20px #920d28;
+  }
+
+
+
+
+
+
